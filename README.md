@@ -4,7 +4,7 @@
 
 ![Nexora Engine Home](docs/screenshots/home-dark-1920.png)
 
-**[Download for Windows](https://github.com/RealRren/nexora-engine-releases/releases/latest)** · **[Open the web app](https://nexoraengine.vercel.app)**
+**[Download for Windows](https://github.com/RealRren/nexora-engine-releases/releases/latest)** · **[Nexora Downloade page](https://github.com/RealRren/nexora-engine-releases/releases/latest)**
 
 > This is a **showcase** repository. The source code is private. This page shows what the app does and how it was built.
 
