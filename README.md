@@ -1,10 +1,10 @@
 # Nexora Engine
 
-> Business documents, estimating tools and calculators for contractors, in one app that works on the web and on Windows, online or offline.
+> Business documents, estimating tools and calculators for contractors, in one Windows app that works online or offline.
 
 ![Nexora Engine Home](docs/screenshots/home-dark-1920.png)
 
-**[Download for Windows](https://github.com/RealRren/nexora-engine-releases/releases/latest)** · **[Nexora Downloade page](https://github.com/RealRren/nexora-engine-releases/releases/latest)**
+**[Download for Windows](https://github.com/RealRren/nexora-engine-releases/releases/latest)**
 
 > This is a **showcase** repository. The source code is private. This page shows what the app does and how it was built.
 
@@ -35,9 +35,9 @@
 - Free and Premium plans
 - Support tickets inside the app
 
-**Everywhere**
-- Web app (installable, works offline)
-- Windows desktop app with automatic update check
+**App**
+- Windows desktop app, works offline, syncs when online
+- Automatic update check for new releases
 - Dark and light themes
 - Sinhala and Tamil text supported
 
@@ -65,10 +65,8 @@
 | Area | Technology |
 |---|---|
 | Front end | HTML, CSS, JavaScript |
-| Offline / installable | Service worker (PWA) |
+| Desktop | Windows desktop app, works offline |
 | Auth and database | Supabase (Postgres, Row Level Security) |
-| Web hosting | Vercel |
-| Desktop | Windows desktop app with bundled web files |
 | Releases | GitHub Releases + forced update check |
 | Exports | PDF, Excel (.xlsx) |
 
