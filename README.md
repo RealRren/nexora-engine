@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/33441141/README.1.md)
 # Nexora Engine
 
 > Business documents, estimating tools and calculators for contractors, in one Windows app that works online or offline.
@@ -51,8 +52,8 @@
 | Home dashboard | Quotation |
 | ![Tax Invoice](docs/screenshots/tax-invoice.png) | ![Excel export](docs/screenshots/excel-export.png) |
 | Tax Invoice | Excel export |
-| ![Editor](docs/screenshots/editor.png) | ![Mobile](docs/screenshots/mobile-375.png) |
-| Document editor | Phone layout |
+| ![Editor](docs/screenshots/editor.png) | ![Library](docs/screenshots/library.png) |
+| Document editor | Saved documents library |
 
 ![Editor demo](docs/screenshots/editor-demo.gif)
 
