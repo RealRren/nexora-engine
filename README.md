@@ -2,7 +2,7 @@
 
 > Business documents, estimating tools and calculators for contractors, in one Windows app that works online or offline.
 
-![Nexora Engine Home](docs/screenshots/home-dark-1920.png)
+![Nexora Engine Home](screenshots/home-dark-1920.png)
 
 **[Download for Windows](https://github.com/RealRren/nexora-engine-releases/releases/latest)**
 
@@ -22,7 +22,7 @@
 - Move, resize, layer and overlap any element
 - Insert text boxes, tables, images, shapes and extra pages
 - Text tools: fonts, colours, lists, spacing, borders
-- Copy / paste, multi-select, right-click menu, full undo/redo
+- Copy / paste, multi-select, right-click menu, undo / redo
 - Figures always stay tied to the form, so edits can't break the totals
 
 **Estimating tools and calculators**
@@ -47,14 +47,16 @@
 
 | | |
 |---|---|
-| ![Home](docs/screenshots/home-light-1280.png) | ![Quotation](docs/screenshots/quotation.png) |
+| ![Home](screenshots/home-light-1280.png) | ![Quotation](screenshots/quotation.png) |
 | Home dashboard | Quotation |
-| ![Tax Invoice](docs/screenshots/tax-invoice.png) | ![Excel export](docs/screenshots/excel-export.png) |
+| ![Tax Invoice](screenshots/tax-invoice.png) | ![Excel export](screenshots/excel-export.png) |
 | Tax Invoice | Excel export |
-| ![Editor](docs/screenshots/editor.png) | ![Library](docs/screenshots/library.png) |
+| ![Editor](screenshots/editor.png) | ![Library](screenshots/library.png) |
 | Document editor | Saved documents library |
 
-![Editor demo](docs/screenshots/editor-demo.gif)
+### Editor in action
+
+![Editor demo](screenshots/editor-demo.gif)
 
 *All screenshots use demo data.*
 
