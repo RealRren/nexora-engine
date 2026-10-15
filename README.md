@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33441141/README.1.md)
 # Nexora Engine
 
 > Business documents, estimating tools and calculators for contractors, in one Windows app that works online or offline.
