@@ -4,7 +4,7 @@
 
 ![Nexora Engine Home](screenshots/home-dark-1920.png)
 
-**[Download for Windows](https://nexoraengine.xyz)**
+**[Download for Windows](https://nexora-download-page.vercel.app)**
 
 **v0.1.7** · Windows 10 / 11 (64-bit) · 78.5 MB installer (82,340,366 bytes) · every build is also on [GitHub Releases](https://github.com/RealRren/nexora-engine-releases/releases)
 
