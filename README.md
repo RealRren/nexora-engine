@@ -1,10 +1,12 @@
 # Nexora Engine
 
-> Business documents, estimating tools and calculators for contractors, in one Windows app that works online or offline.
+> Business documents, estimating tools and calculators for contractors — one Windows app that works online or offline.
 
 ![Nexora Engine Home](screenshots/home-dark-1920.png)
 
-**[Download for Windows](https://github.com/RealRren/nexora-engine-releases/releases/latest)**
+**[Download for Windows](https://nexoraengine.xyz)**
+
+**v0.1.6** · Windows 10 / 11 (64-bit) · 78.5 MB installer
 
 > This is a **showcase** repository. The source code is private. This page shows what the app does and how it was built.
 
@@ -25,21 +27,34 @@
 - Copy / paste, multi-select, right-click menu, undo / redo
 - Figures always stay tied to the form, so edits can't break the totals
 
+**Letterhead and company seal**
+- Your company details on every sheet and every printed page
+- Upload a seal image once — it prints with the signature block
+
+**Templates (Premium)**
+- Save a finished layout as a template and start the next document from it
+- Templates sync with the account, so a layout made on one PC is on the next
+
 **Estimating tools and calculators**
 - BOQ, Qty & Rate, Variation Order, Import Tax, Scope Guard report
 - Calculator reports ready to print
 
-**Account and cloud**
+**Library and cloud**
+- Every document is saved, reloadable and re-downloadable from any device
+- Synced to your account, and still usable offline
+- A free account gets one free run of every tool; Premium lifts the limits on all of them at once ($12.99 / month or $124.99 / year, requested in the app)
+
+**Account**
 - Sign up with an emailed code, password reset by code
-- Library of saved documents, synced to your account
 - Free and Premium plans
 - Support tickets inside the app
 
 **App**
 - Windows desktop app, works offline, syncs when online
-- Automatic update check for new releases
+- Checks for a new release on every start and installs it
 - Dark and light themes
 - Sinhala and Tamil text supported
+- Spell check in every text field
 
 ---
 
@@ -47,12 +62,12 @@
 
 | | |
 |---|---|
-| ![Home](screenshots/home-light-1280.png) | ![Quotation](screenshots/quotation.png) |
-| Home dashboard | Quotation |
-| ![Tax Invoice](screenshots/tax-invoice.png) | ![Excel export](screenshots/excel-export.png) |
-| Tax Invoice | Excel export |
-| ![Editor](screenshots/editor.png) | ![Library](screenshots/library.png) |
-| Document editor | Saved documents library |
+| ![Home, dark](screenshots/home-dark-1920.png) | ![Home, light](screenshots/home-light-1280.png) |
+| Home dashboard, dark | Home dashboard, light |
+| ![Quotation](screenshots/quotation.png) | ![Tax Invoice](screenshots/tax-invoice.png) |
+| Quotation, ready to print | Tax Invoice, ready to print |
+| ![Library](screenshots/library.png) | ![Editor](screenshots/editor.png) |
+| Saved documents library | Document editor |
 
 ### Editor in action
 
@@ -67,10 +82,10 @@
 | Area | Technology |
 |---|---|
 | Front end | HTML, CSS, JavaScript |
-| Desktop | Windows desktop app, works offline |
+| Desktop | Electron shell, Windows installer, automatic updates |
 | Auth and database | Supabase (Postgres, Row Level Security) |
-| Releases | GitHub Releases + forced update check |
-| Exports | PDF, Excel (.xlsx) |
+| Exports | Print-to-PDF, Excel (.xlsx) |
+| Releases | GitHub Releases + electron-updater |
 
 ## How it was built
 
@@ -82,7 +97,7 @@
 
 ## Status
 
-Current release: **v0.1.1** · Next: **v0.1.2** (editor, templates, password reset)
+Current release: **v0.1.6** (20 October 2026) · [All versions](https://github.com/RealRren/nexora-engine-releases/releases)
 
 ## Contact
 
