@@ -6,7 +6,7 @@
 
 **[Download for Windows](https://nexora-download-page.vercel.app)**
 
-**v0.1.10** · Windows 10 / 11 (64-bit) · 78.52 MB installer (82,341,186 bytes) · every build is also on [GitHub Releases](https://github.com/RealRren/nexora-engine-releases/releases)
+**v0.1.11** · Windows 10 / 11 (64-bit) · 78.53 MB installer (82,344,985 bytes) · every build is also on [GitHub Releases](https://github.com/RealRren/nexora-engine-releases/releases)
 
 `SHA-256 9f50429ebc83b8903748c87a6ede5bdb597cf51e64808b6bd6d9828d61591912`
 
@@ -99,7 +99,7 @@
 
 ## Status
 
-Current release: **v0.1.10** (22 October 2026) · [All versions](https://github.com/RealRren/nexora-engine-releases/releases)
+Current release: **v0.1.11** (22 October 2026) · [All versions](https://github.com/RealRren/nexora-engine-releases/releases)
 
 ## Contact
 
