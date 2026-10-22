@@ -8,7 +8,7 @@
 
 **v0.1.11** · Windows 10 / 11 (64-bit) · 78.53 MB installer (82,344,985 bytes) · every build is also on [GitHub Releases](https://github.com/RealRren/nexora-engine-releases/releases)
 
-`SHA-256 9f50429ebc83b8903748c87a6ede5bdb597cf51e64808b6bd6d9828d61591912`
+`SHA-256 247cd7435f58925788540d3e47a1c64712077cf61d079b4cac715e585d20e601`
 
 > This is a **showcase** repository. The source code is private. This page shows what the app does and how it was built.
 
